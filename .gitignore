@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+#Unreal
+.vs
+Binaries
+Intermediate
+Saved
+*.sdf
+*.VC.opendb
