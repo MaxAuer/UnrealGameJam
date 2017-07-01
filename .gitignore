@@ -32,10 +32,14 @@
 *.app
 
 #Unreal
-.vs
+*.vs
 Binaries
 Intermediate
 Saved
 *.sdf
 *.VC.opendb
 Build
+
+# Voxel
+*.obj
+*.png
