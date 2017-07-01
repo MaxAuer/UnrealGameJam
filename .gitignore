@@ -43,3 +43,5 @@ Build
 # Voxel
 *.obj
 *.png
+*.mtl
+*.fbx
